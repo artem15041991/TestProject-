@@ -1,3 +1,4 @@
 # TestProject
-this is my first project
+This is my first project.
+Lerning how to use git.
 
